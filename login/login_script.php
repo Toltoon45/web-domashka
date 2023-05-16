@@ -13,6 +13,7 @@
         }  
     }
     else {
-        header("Location: ../error/login.php");
+        header("Location: ../error/error.php");
+        
     }
     ?> 

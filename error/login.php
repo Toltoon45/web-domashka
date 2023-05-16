@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
     <nav class = "navbar-nav" > 
     <ol class = "navbar-item">
         <li class="nav-item">
